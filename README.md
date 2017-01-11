@@ -1,2 +1,2 @@
-# design_portfolio
+# Design portfolio
 Design portfolio for Patricia Lombardi
